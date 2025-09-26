@@ -184,7 +184,7 @@ const Testimonials = () => {
         <div className={`mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}
              style={{ transitionDelay: '600ms' }}>
           {[
-            { number: '50,000+', label: 'Pelanggan Aktif', icon: '👥' },
+            { number: '1,000', label: 'Pelanggan Aktif', icon: '👥' },
             { number: '4.9/5', label: 'Rating Kepuasan', icon: '⭐' },
             { number: '99.9%', label: 'Uptime Guarantee', icon: '🛡️' },
             { number: '24/7', label: 'Customer Support', icon: '📞' },
