@@ -150,9 +150,9 @@ const About = () => {
           <h3 className="text-3xl font-bold mb-8">Pencapaian BYTERA</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { number: '4', suffix: ' Tahun', label: 'Pengalaman' },
-              { number: '50K+', suffix: '', label: 'Pelanggan Aktif' },
-              { number: '25+', suffix: '', label: 'Kota Terlayani' },
+              { number: '1', suffix: ' Tahun', label: 'Pengalaman' },
+              { number: '1K', suffix: '', label: 'Pelanggan Aktif' },
+              { number: '2', suffix: '', label: 'Kota Terlayani' },
               { number: '99.9%', suffix: '', label: 'Uptime Guarantee' },
             ].map((stat, index) => (
               <div key={stat.label}>
