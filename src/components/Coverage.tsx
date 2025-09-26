@@ -24,14 +24,8 @@ const Coverage = () => {
   }, []);
 
   const coverageAreas = [
-    { city: 'Jakarta', districts: ['Jakarta Pusat', 'Jakarta Selatan', 'Jakarta Barat', 'Jakarta Timur', 'Jakarta Utara'], status: 'available' },
-    { city: 'Bogor', districts: ['Bogor Kota', 'Cibinong', 'Sentul', 'Bogor Barat'], status: 'available' },
-    { city: 'Depok', districts: ['Depok Kota', 'Margonda', 'UI Area', 'Cinere'], status: 'available' },
-    { city: 'Tangerang', districts: ['Tangerang Kota', 'BSD City', 'Alam Sutera', 'Serpong'], status: 'available' },
-    { city: 'Bekasi', districts: ['Bekasi Kota', 'Bekasi Barat', 'Bekasi Timur', 'Tambun'], status: 'available' },
-    { city: 'Bandung', districts: ['Bandung Kota', 'Dago', 'Setiabudhi', 'Cihampelas'], status: 'coming-soon' },
-    { city: 'Surabaya', districts: ['Surabaya Kota', 'Gubeng', 'Wonokromo', 'Rungkut'], status: 'coming-soon' },
-    { city: 'Yogyakarta', districts: ['Yogyakarta Kota', 'Sleman', 'Bantul', 'UGM Area'], status: 'coming-soon' },
+    { city: 'Mojokerto', districts: ['Magersari', 'Jatikulon', 'Kemlagi'], status: 'coming-soon' },
+    { city: 'Surabaya', districts: ['Rungkut', 'Cibinong', 'Sentul', 'Bogor Barat'], status: 'coming-soon' },
   ];
 
   return (
