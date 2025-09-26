@@ -80,7 +80,7 @@ const About = () => {
               </h3>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Dimulai pada tahun 2020, BYTERA hadir dengan visi menyediakan akses internet 
+                  Dimulai pada tahun 2025, BYTERA hadir dengan visi menyediakan akses internet 
                   berkualitas tinggi yang terjangkau untuk seluruh masyarakat Indonesia. Kami 
                   memulai perjalanan dari Jakarta dan kini telah melayani puluhan ribu pelanggan 
                   di berbagai kota besar.
