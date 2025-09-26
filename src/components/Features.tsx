@@ -116,7 +116,7 @@ const Features = () => {
         <div className={`mt-20 grid grid-cols-2 md:grid-cols-4 gap-8 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`} 
              style={{ transitionDelay: '800ms' }}>
           {[
-            { number: '50K+', label: 'Pelanggan Puas' },
+            { number: '1K', label: 'Pelanggan Puas' },
             { number: '25+', label: 'Kota Terjangkau' },
             { number: '99.9%', label: 'Uptime Guarantee' },
             { number: '24/7', label: 'Customer Support' },
