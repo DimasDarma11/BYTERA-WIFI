@@ -25,7 +25,7 @@ const Coverage = () => {
 
   const coverageAreas = [
     { city: 'Mojokerto', districts: ['Magersari', 'Jatikulon', 'Kemlagi'], status: 'coming-soon' },
-    { city: 'Surabaya', districts: ['Rungkut', 'Cibinong', 'Sentul', 'Bogor Barat'], status: 'coming-soon' },
+    { city: 'Surabaya', districts: ['Rungkut'], status: 'coming-soon' },
   ];
 
   return (
