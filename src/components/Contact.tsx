@@ -46,13 +46,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Telepon',
-      details: ['(021) 1234-5678', '0800-1-BYTERA'],
+      details: ['+6285707594952', 'DIMAS BYTERA'],
       color: 'from-green-500 to-emerald-500',
     },
     {
       icon: MessageSquare,
       title: 'WhatsApp',
-      details: ['+62 812-3456-7890', 'Chat 24/7'],
+      details: ['+62 857-0759-4952', 'Chat 24/7'],
       color: 'from-green-400 to-green-600',
     },
     {
@@ -64,7 +64,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Alamat',
-      details: ['Jl. Teknologi No. 123', 'Jakarta Selatan 12345'],
+      details: ['Jl. Jatikulon', 'Kota Mojokerto'],
       color: 'from-purple-500 to-pink-500',
     },
   ];
